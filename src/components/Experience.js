@@ -11,9 +11,7 @@ const Experience = () => {
           <p className="text-base leading-relaxed">
                 <ul>
                   <li><strong>API Development:</strong> Architected high-performance APIs in Golang to process up to 80 million records in 12 hours.</li>
-                  <li><strong>API Development:</strong> Developed CRUD and REST APIs in Node.js, reducing response times by 40%.</li>
                   <li><strong>Performance Optimization:</strong> Enhanced performance by implementing caching mechanisms and optimizing database queries in MySQL and MongoDB.</li> 
-                  <li><strong>Performance Optimization:</strong> Reducing data retrieval time by 30% and improving application responsiveness.</li>
                   <li><strong>Advanced Technologies:</strong> Leveraged Redis and Kafka to optimize data processing throughput by 60%, significantly enhancing system efficiency and performance.</li>
                   <li><strong>Agile Methodology:</strong> Delivered high-quality projects within the SDLC while meeting deadlines and aligning with organizational goals.</li>
                   <li><strong>Collaboration</strong> Collaborated with cross-functional teams to design and implement robust, maintainable codebases. </li>
