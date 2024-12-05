@@ -9,8 +9,17 @@ const Experience = () => {
           <h2 className="text-2xl font-bold mb-4">Jio Platforms Limited</h2>
           <h3 className="text-lg font-bold mb-4">Software Developement Engineer 1</h3>
           <p className="text-base leading-relaxed">
-            Currently, I am actively involved in a project where I am utilizing my expertise in JavaScript, Node.js, Express.js, and MongoDB to develop robust and scalable web applications. Additionally, I am also expanding my knowledge by exploring Docker, Kubernetes, and Kafka and also interested in cloud-based technologies like AWS and Azure. I have a keen interest in deployment and messaging systems.
-          </p>
+                <ul>
+                  <li><strong>API Development:</strong> Architected high-performance APIs in Golang to process up to 80 million records in 12 hours.</li>
+                  <li><strong>API Development:</strong> Developed CRUD and REST APIs in Node.js, reducing response times by 40%.</li>
+                  <li><strong>Performance Optimization:</strong> Enhanced performance by implementing caching mechanisms and optimizing database queries in MySQL and MongoDB.</li> 
+                  <li><strong>Performance Optimization:</strong> Reducing data retrieval time by 30% and improving application responsiveness.</li>
+                  <li><strong>Advanced Technologies:</strong> Leveraged Redis and Kafka to optimize data processing throughput by 60%, significantly enhancing system efficiency and performance.</li>
+                  <li><strong>Agile Methodology:</strong> Delivered high-quality projects within the SDLC while meeting deadlines and aligning with organizational goals.</li>
+                  <li><strong>Collaboration</strong> Collaborated with cross-functional teams to design and implement robust, maintainable codebases. </li>
+                  <li><strong>Mentorship:</strong> Conducted code reviews and mentored junior developers to ensure adherence to best practices.</li>
+</ul>    
+        </p>
         </div>
       </div>
     </div>
