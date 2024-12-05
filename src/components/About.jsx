@@ -7,10 +7,9 @@ const About = () => {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
                 </div>
                 <p className="text-xl mt-10">
-                    Hello everyone! My name is Parmesh Kumar, and I'm a dedicated software developer with over 8 months of experience. I have a strong background in various technologies, including JavaScript, Node.js, Express.js, MongoDB, MySQL, Redis, React.js, Python, Core Java, Git, and GitHub.
-                    <br />These technologies have been instrumental in shaping my career as a proficient developer.  My passion for coding drives me to continuously learn and adapt to emerging technologies.
-                    <br /> Aside from coding, I find joy in working within a team, brainstorming ideas, and collaborating to develop innovative solutions. 
-                    I believe that combining technical expertise with effective teamwork leads to remarkable outcomes.
+                    Hello! My name is Parmesh Kumar, and I am a dedicated software developer with over 2 years of experience. My expertise spans a range of technologies, including Golang, Gin, JavaScript, Node.js, Express.js, MongoDB, MySQL, Redis, Kafka, Azure DevOps, Data Structures and Algorithms, Low-Level Design, React.js, Python, C++, Linux, and Git. These technologies have been crucial in shaping my journey as a proficient developer.
+                    <br />I am passionate about coding and constantly strive to stay updated with emerging technologies. Beyond technical skills, I enjoy collaborating within a team, brainstorming ideas, and contributing to the development of innovative solutions.
+                    <br />I believe that the combination of strong technical expertise and effective teamwork results in outstanding outcomes.
                     Thank you for visiting My Portfolio!
                 </p>
 
