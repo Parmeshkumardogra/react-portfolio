@@ -9,7 +9,7 @@ const Home = () => {
                 <div className="flex flex-col justify-center h-full">
                     <h2 className="text-4xl sm:text-7xl font-bold text-white">I'm a MERN Stack Developer</h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                    Experienced Software Developer with 8+ months of expertise in JavaScript, Node.js, Express.js, MongoDB, MySQL, Redis, React.js, Python, Core Java, Git, and GitHub. Skilled in creating scalable and reliable web applications. Constantly learning and exploring new technologies.                    </p>
+                    Software Engineer with 2+ years of experince in developing scalable applications and high-volume APIs. Proficient in Golang, MongoDB & MySQL with a proven track record of optimizing performance & delivering impactful solutions through innovative discovery.</p>
                     <div>
                         <Link to="techStack" smooth duration={500}  offset={-100} className="group text-white w-fit px-6 py-3 my-2 rounded-md flex items-center bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
                             TechStack
