@@ -1,6 +1,6 @@
 import React from "react"
 import javascript from "../assests/javascript.png"
-import java from "../assests/java.png"
+import golang from "../assests/golang.png"
 import python from "../assests/python.png"
 import nodejs from "../assests/nodejs.png"
 import reactjs from "../assests/reactjs.png"
@@ -15,8 +15,8 @@ const TechStack = () => {
     const ProgramingLangArr = [
         {
             id: 1,
-            techStack: "Core Java",
-            pic: java
+            techStack: "GoLang",
+            pic: golang
         },
         {
             id: 2,
