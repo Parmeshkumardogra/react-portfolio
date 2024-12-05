@@ -14,8 +14,6 @@ const Experience = () => {
                   <li><strong>Performance Optimization:</strong> Enhanced performance by implementing caching mechanisms and optimizing database queries in MySQL and MongoDB.</li> 
                   <li><strong>Advanced Technologies:</strong> Leveraged Redis and Kafka to optimize data processing throughput by 60%, significantly enhancing system efficiency and performance.</li>
                   <li><strong>Agile Methodology:</strong> Delivered high-quality projects within the SDLC while meeting deadlines and aligning with organizational goals.</li>
-                  <li><strong>Collaboration</strong> Collaborated with cross-functional teams to design and implement robust, maintainable codebases. </li>
-                  <li><strong>Mentorship:</strong> Conducted code reviews and mentored junior developers to ensure adherence to best practices.</li>
 </ul>    
         </p>
         </div>
